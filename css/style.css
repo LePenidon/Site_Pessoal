@@ -9,3 +9,15 @@
 	margin-top: -5vw;
 
 }
+
+#entrada{
+
+	background-image: url(img/profile.png);
+
+}
+
+.mb-5, .lead{
+
+	text-align: justify;
+
+}
