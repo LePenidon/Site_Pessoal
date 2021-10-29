@@ -1,6 +1,6 @@
 # Personal Site
 
-:)
+Made just to train web development skills
 
 ---
 
